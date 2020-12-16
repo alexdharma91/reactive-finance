@@ -1,0 +1,18 @@
+{
+  "properties": [
+    {
+      "name": "application.artificial.enabled",
+      "type": "java.lang.String",
+      "description": "Включить искуственное создание заявок."
+    },
+    {
+      "name": "application.artificial.duration.type",
+      "type": "java.lang.String",
+      "description": "Description for application.artificial.duration.type."
+    },
+    {
+      "name": "application.artificial.duration.count",
+      "type": "java.lang.String",
+      "description": "Description for application.artificial.duration.count."
+    }
+  ] }
